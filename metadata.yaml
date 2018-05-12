@@ -1,0 +1,38 @@
+_repo: Jesus-the-ChristScriptures-Both-Ancient-and-Modern_22542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talmage, James E. (James Edward)
+    alias: Talmage, James Edward
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '1821'
+    url: http://www.gutenberg.org/2009/agents/1821
+    wikipedia: http://en.wikipedia.org/wiki/James_E._Talmage
+description: ''
+gutenberg_bookshelf:
+- Christianity
+- Latter Day Saints
+gutenberg_issued: '2007-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22542'
+  lccn: '52056531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Jesus Christ -- Biography'
+- !lcsh 'Christian biography -- Palestine'
+- !lcsh 'Jesus Christ -- Mormon interpretations'
+title: 'Jesus the Christ
+
+  A Study of the Messiah and His Mission According to Holy
+
+  Scriptures Both Ancient and Modern'
+url: http://www.gutenberg.org/ebooks/22542
